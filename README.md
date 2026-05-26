@@ -15,14 +15,6 @@ TECH STACK
 Language: Python 3
 Library: NumPy
 
-INSTALLATION
-
-Clone the repository
-git clone https://github.com/your-username/daily-expense-tracker.git
-cd daily-expense-tracker
-Install dependencies
-pip install numpy
-
 
 USAGE
 Run the notebook in Google Colab or Jupyter Notebook:
